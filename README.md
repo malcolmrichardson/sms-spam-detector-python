@@ -1,14 +1,14 @@
 # sms-spam-detector-python
-Application used to classify whether an SMS message is likely a spam message or ham (legitimate) message.<br>
+Application used to classify whether an SMS message is likely a spam message or ham (legitimate) message.<br><br>
 It tests various classification and vectorization technique combinations to determine which combination works best on the SMS Spam dataset provided from Kaggle.
-<br>
+<br><br>
 Run `classifier.py` to view the scores of each of the combinations.
-<br>
+<br><br>
 One-Vs-Rest Classification and  Term Frequency-Inverse Document Frequency vectorization were chosen to perform the determinations.
-<br>
+<br><br>
 Application makes classifications on SMS messages with a 98.8% accuracy rate, due to the aforementioned ML techniques above.
-<br>
-Tools used:
+
+## Tools used:
 -Python
 -Flask
 -scikit-learn (Machine Learning library)
