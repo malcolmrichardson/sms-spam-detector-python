@@ -9,14 +9,14 @@ One-Vs-Rest Classification and  Term Frequency-Inverse Document Frequency vector
 Application makes classifications on SMS messages with a 98.8% accuracy rate, due to the aforementioned ML techniques above.
 
 ## Tools used:
--Python
--Flask
--scikit-learn (Machine Learning library)
--pandas (Data Analysis and Manipulation library)
--SQLite
--SQLAlchemy
--HTML
--CSS
+- Python
+- Flask
+- scikit-learn (Machine Learning library)
+- pandas (Data Analysis and Manipulation library)
+- SQLite
+- SQLAlchemy
+- HTML
+- CSS
 
 ## Installation/Setup
 
