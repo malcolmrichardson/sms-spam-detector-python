@@ -40,6 +40,6 @@ Application runs on https://127.0.0.1:5000 by default.
 
 Enjoy and thank you!
 
-Sample capture below:
-<br><br><br>
-
+Sample screen capture below:
+<br><br>
+<img width="960" alt="sampleScreenshot" src="https://user-images.githubusercontent.com/70815205/163737783-dda3d273-062d-45ee-aa74-27d196129cb9.png">
